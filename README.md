@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub
+Olá! Meu nome é João Lucas e sou um jovem apaixonado por tecnologia!
